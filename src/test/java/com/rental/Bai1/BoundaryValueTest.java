@@ -1,4 +1,4 @@
-package com.rental.Week3;
+package com.rental.Bai1;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
